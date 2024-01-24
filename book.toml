@@ -1,0 +1,10 @@
+[book]
+title = "Little Book of LEGO Game Investigations"
+description = "Investigations into LEGO Games and their collective history."
+authors = ["Lachlan Rehder"]
+language = "en-AU"
+multilingual = false
+src = "src"
+
+[rust]
+edition = "2021"
