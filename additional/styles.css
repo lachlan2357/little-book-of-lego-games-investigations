@@ -7,6 +7,12 @@ h2, h3, h4, h5, h6 {
 	margin-block-start: 1.5em;
 }
 
+del {
+	text-decoration: double line-through;
+	opacity: 0.6;
+	filter: blur(1px);
+}
+
 #content > main > p {
 	line-height: 1.75em;
 	margin-block: 1.5rem;
