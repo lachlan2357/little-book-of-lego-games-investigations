@@ -8,3 +8,12 @@ src = "src"
 
 [rust]
 edition = "2021"
+
+[build]
+extra-watch-dirs = ["./additional/"]
+
+[output.html]
+default-theme = "dark"
+preferred-dark-theme = "navy"
+additional-css = ["./additional/styles.css"]
+git-repository-url = "https://github.com/lachlan2357/little-book-of-lego-games-investigations/"

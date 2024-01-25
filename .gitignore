@@ -1,1 +1,6 @@
+# mdbook
 book
+
+# local
+*.local
+*.local.*

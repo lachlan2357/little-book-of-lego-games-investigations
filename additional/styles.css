@@ -1,0 +1,36 @@
+:root {
+	--footnote: #e67a00;
+	--links: #2cafd0;
+}
+
+h2, h3, h4, h5, h6 {
+	margin-block-start: 1.5em;
+}
+
+#content > main > p {
+	line-height: 1.75em;
+	margin-block: 1.5rem;
+}
+
+.footnote-reference {
+	position: relative;
+	top: -0.5rem;
+	vertical-align: top;
+}
+
+.footnote-reference a:link,
+.footnote-reference a:visited {
+	color: var(--footnote);
+}
+
+.footnote-reference a::before {
+	content: "[";
+}
+
+.footnote-reference a::after {
+	content: "]";
+}
+
+.footnote-definition-label {
+	color: var(--footnote);
+}
