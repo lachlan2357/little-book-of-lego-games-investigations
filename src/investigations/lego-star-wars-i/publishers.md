@@ -64,6 +64,8 @@ This puts us at an interesting point. Using information from both [Traveller's T
 -   `2005-04-07`: [Traveller's Tales] was completely acquired by [TT Games][^uk_gov_travellers_tales_acquired]
 -   `2006-01-25`: [Giant Interactive Entertainment] changed names to *TT Games Publishing*[^uk_gov_giant_interactive_entertainment_change_name_tt_games_publishing]
 
+Note that further investigations into the company layout can be found in their side investigation page[^side_investigation_tt_company_structure].
+
 This puts our breakpoint between [Traveller's Tales] with [Giant Interactive Entertainment] and [TT Games] on `2005-04-07`, which complicates things slightly. At face value, we should be able to sort all the releases to ones before and after `2005-04-07` to determine whether they were developed by [Traveller's Tales] and published by [Giant Interactive Entertainment], or whether both were done by [TT Games]. Taking my research from my investigation about the release dates[^investigation_release_dates], that means the following:
 
 | Platform        | Region      | Release Date | Developer           | Publisher                         |
@@ -186,6 +188,8 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 [^uk_gov_travellers_tales_acquired]: [Traveller's Tales (UK) Limited Abbreviated Accounts for the period ended 7 April 2005](https://find-and-update.company-information.service.gov.uk/company/03149992/filing-history/MTQxNzc0NzQyYWRpcXprY3g/document?format=pdf&download=0) from [UK Company Information]
 
 [^uk_gov_giant_interactive_entertainment_change_name_tt_games_publishing]: [Certificate of Incorporation on Change of Name](https://find-and-update.company-information.service.gov.uk/company/04946940/filing-history/MTE1ODc0NTYzYWRpcXprY3g/document?format=pdf&download=0) from [UK Company Information]
+
+[^side_investigation_tt_company_structure]: Side Investigation into [TT Games Company Structure](../../side-investigations/tt-games-company-structure.md)
 
 [^investigation_release_dates]: Investigation into [LEGO Star Wars: The Video Game - Release Dates](./release-dates.md)
 

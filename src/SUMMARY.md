@@ -17,6 +17,7 @@
 	- [Eidos Interactive]()
 	- [Giant Interactive Entertainment]()
 	- [i5works]()
+	- [LEGO Interactive]()
 	- [LucasArts]()
 	- [Valve]()
 	- [Traveller's Tales]()
@@ -86,3 +87,4 @@
 # Side Investigations
 
 - [LucasArts Planned but Unreleased Games on Steam](./side-investigations/lucasarts-steam.md)
+- [TT Games Company Structure](./side-investigations/tt-games-company-structure.md)
