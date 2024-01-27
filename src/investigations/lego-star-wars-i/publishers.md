@@ -215,8 +215,7 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 
 [^lucasarts_all_games_2005]: [LucasArts | Games (Index)](https://web.archive.org/web/20050507040623/http://www.lucasarts.com/products/) from [LucasArts] captured `2005-05-07` (archived)
 
-<!-- games -->
-[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
+<!-- LINKS -->
 
 <!-- entities -->
 [Aspyr Media]: ../../entities/aspyr-media.md
@@ -227,12 +226,8 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 [Traveller's Tales]: ../../entities/travellers-tales.md
 [TT Games]: ../../entities/tt-games.md
 
-<!-- platforms -->
-[GameCube]: ../../platforms/gamecube.md
-[Mac]: ../../platforms/mac.md
-[PlayStation 2]: ../../platforms/playstation-2.md
-[Windows]: ../../platforms/windows.md
-[Xbox]: ../../platforms/xbox.md
+<!-- games -->
+[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
 
 <!-- outlets -->
 [Game Developer]: ../../outlets/game-developer.md
@@ -240,13 +235,20 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 [MacWorld]: ../../outlets/macworld.md
 [PlayStation Press Releases]: ../../outlets-playstation-press-releases.md
 
-<!-- tools -->
-[The Internet Archive]: ../../tools/internet-archive.md
-[The Wayback Machine]: ../../tools/wayback-machine.md
-[UK Company Information]: ../../uk-company-information.md
+<!-- platforms -->
+[GameCube]: ../../platforms/gamecube.md
+[Mac]: ../../platforms/mac.md
+[PlayStation 2]: ../../platforms/playstation-2.md
+[Windows]: ../../platforms/windows.md
+[Xbox]: ../../platforms/xbox.md
 
 <!-- regions -->
 [NTSC/J]: ../../regions/ntsc-j.md
 [NTSC/NC]: ../../regions/ntsc-nc.md
 [PAL]: ../../regions/pal.md
 [Worldwide]: ../../regions/worldwide.md
+
+<!-- tools -->
+[The Internet Archive]: ../../tools/internet-archive.md
+[The Wayback Machine]: ../../tools/wayback-machine.md
+[UK Company Information]: ../../uk-company-information.md

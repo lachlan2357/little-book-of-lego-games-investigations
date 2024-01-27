@@ -161,18 +161,20 @@ So, we discovered the following things of note (excluding betas, trailers, etc.)
 
 [^steamdb_32600]: [Unknown, unpublished, or deleted app 32600](https://steamdb.info/app/32600/) from [SteamDB]
 
-<!-- games -->
-[LEGO Star Wars II: The Original Trilogy]: ../games/lego-star-wars-ii.md
+<!-- LINKS -->
+
+<!-- databases -->
+[SteamDB]: ../databases/steamdb.md
 
 <!-- entities -->
 [LucasArts]: ../entities/lucasarts.md
 
+<!-- games -->
+[LEGO Star Wars II: The Original Trilogy]: ../games/lego-star-wars-ii.md
+
 <!-- outlets -->
 [AFKGaming]: ../outlets/afk-gaming.md
 [IGN]: ../outlets/ign.md
-
-<!-- databases -->
-[SteamDB]: ../databases/steamdb.md
 
 <!-- stores -->
 [Steam]: ../stores/steam.md

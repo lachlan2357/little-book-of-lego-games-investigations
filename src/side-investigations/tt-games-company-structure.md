@@ -67,19 +67,21 @@ Changed the Face of LEGO Games](https://www.lego.com/cdn/cs/set/assets/blt90ca29
 
 [^youtube_lego_star_wars_the_skywalker_saga_credits]: [LEGO Star Wars: The Skywalker Saga Complete End Credits Roll](https://www.youtube.com/watch?v=8LVnK7JqIHA) by *Amir "Big Al" Satvat* on [YouTube] published `2022-04-07`
 
+<!-- LINKS -->
+
+<!-- entities -->
+[Giant Interactive Entertainment]: ../entities/giant-interactive-entertainment.md
+[The LEGO Group]: ../entities/lego-group.md
+[LEGO Interactive]: ../entities/lego-interactive.md
+[TT Fusion]: ../entities/embryonic-studios.md
+[TT Games]: ../entities/tt-games.md
+[Traveller's Tales]: ../entities/travellers-tales.md
+
 <!-- games -->
 [LEGO Star Wars: The Video Game]: ../games/lego-star-wars-i.md
 [LEGO City Undercover]: ../games/lego-city-undercover.md
 [LEGO Star Wars: The Force Awakens]: ../games/lego-star-wars-tfa.md
 [LEGO Star Wars: The Skywalker Saga]: ../games/lego-star-wars-tss.md
-
-<!-- companies -->
-[Giant Interactive Entertainment]: ../companies/giant-interactive-entertainment.md
-[The LEGO Group]: ../companies/lego-group.md
-[LEGO Interactive]: ../companies/lego-interactive.md
-[TT Fusion]: ../companies/embryonic-studios.md
-[TT Games]: ../companies/tt-games.md
-[Traveller's Tales]: ../companies/travellers-tales.md
 
 <!-- outlets -->
 [Game Developer]: ../outlets/game-developer.md

@@ -140,18 +140,20 @@ After all, [SteamCMD] does list the game as "released", just under the "ownerson
 
 [^steamdb_32440]: [LEGO® Star Wars™: The Complete Saga](https://steamdb.info/app/32440/) from [SteamDB]
 
-<!-- games -->
-[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
-[LEGO Star Wars II: The Original Trilogy]: ../../games/lego-star-wars-ii.md
-[LEGO Star Wars: The Complete Saga]: ../../games/lego-star-wars-tcs.md
+<!-- LINKS -->
+
+<!-- databases -->
+[SteamDB]: ../../database/steamdb.md
 
 <!-- entities -->
 [LucasArts]: ../../entities/lucasarts.md
 [Traveller's Tales]: ../../entities/travellers-tales.md
 [Valve]: ../../entities/valve.md
 
-<!-- databases -->
-[SteamDB]: ../../database/steamdb.md
+<!-- games -->
+[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
+[LEGO Star Wars II: The Original Trilogy]: ../../games/lego-star-wars-ii.md
+[LEGO Star Wars: The Complete Saga]: ../../games/lego-star-wars-tcs.md
 
 <!-- stores -->
 [Steam]: ../../stores/steam.md

@@ -392,8 +392,11 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 
 [^worth_playing_lego_star_wars_i_ships]: ['Lego Star Wars' (GBA/PS2/PC) Ships To Retail - Screens](https://worthplaying.com/article/2005/3/29/news/23505-lego-star-wars-gbaps2pc-ships-to-retail-screens/) by *Rainier* at [WorthPlaying] published `2005-03-29`
 
-<!-- games -->
-[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
+<!-- LINKS -->
+
+<!-- databases -->
+[IGDB]: ../../databases/igdb.md
+[Moby Games]: ../../databases/moby-games.md
 
 <!-- entities -->
 [Aspyr Media]: ../../entities/aspyr-media.md
@@ -402,16 +405,8 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 [LucasArts]: ../../entities/lucasarts.md
 [Traveller's Tales]: ../../entities/travellers-tales.md
 
-<!-- platforms -->
-[GameBoy Advance]: ../../platforms/gameboy-advance.md
-[GameCube]: ../../platforms/gamecube.md
-[Mac]: ../../platforms/mac.md
-[Nintendo Switch]: ../../platforms/nintendo-switch.md
-[PlayStation 2]: ../../platforms/playstation-2.md
-[PlayStation 3]: ../../platforms/playstation-3.md
-[Windows]: ../../platforms/windows.md
-[Xbox]: ../../platforms/xbox.md
-[Xbox One]: ../../platforms/xbox-one.md
+<!-- games -->
+[LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
 
 <!-- outlets -->
 [GameFAQs]: ../../outlets/gamefaqs.md
@@ -429,24 +424,31 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 [Wired]: ../../outlets/wired.md
 [WorthPlaying]: ../../outlets/worthplaying.md
 
-<!-- wikis -->
-[Wikipedia]: ../../wikis/wikipedia.md
-[Xbox Fandom]: ../../wikis/xbox-fandom.md
-
-<!-- databases -->
-[IGDB]: ../../databases/igdb.md
-[Moby Games]: ../../databases/moby-games.md
-
-<!-- tools -->
-[The Wayback Machine]: ../../tools/wayback-machine.md
-[YouTube]: ../../tools/youtube.md
-
-<!-- stores -->
-[Amazon]: ../../stores/amazon.md
-[Ebay]: ../../stores/ebay.md
+<!-- platforms -->
+[GameBoy Advance]: ../../platforms/gameboy-advance.md
+[GameCube]: ../../platforms/gamecube.md
+[Mac]: ../../platforms/mac.md
+[Nintendo Switch]: ../../platforms/nintendo-switch.md
+[PlayStation 2]: ../../platforms/playstation-2.md
+[PlayStation 3]: ../../platforms/playstation-3.md
+[Windows]: ../../platforms/windows.md
+[Xbox]: ../../platforms/xbox.md
+[Xbox One]: ../../platforms/xbox-one.md
 
 <!-- regions -->
 [NTSC/J]: ../../regions/ntsc-j.md
 [NTSC/NC]: ../../regions/ntsc-nc.md
 [PAL]: ../../regions/pal.md
 [Worldwide]: ../../regions/worldwide.md
+
+<!-- stores -->
+[Amazon]: ../../stores/amazon.md
+[Ebay]: ../../stores/ebay.md
+
+<!-- tools -->
+[The Wayback Machine]: ../../tools/wayback-machine.md
+[YouTube]: ../../tools/youtube.md
+
+<!-- wikis -->
+[Wikipedia]: ../../wikis/wikipedia.md
+[Xbox Fandom]: ../../wikis/xbox-fandom.md
