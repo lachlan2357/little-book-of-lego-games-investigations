@@ -218,14 +218,14 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 <!-- games -->
 [LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
 
-<!-- companies -->
-[Aspyr Media]: ../../companies/aspyr-media.md
-[Eidos Interactive]: ../../companies/eidos-interactive.md
-[Giant Interactive Entertainment]: ../../companies/giant-interactive-entertainment.md
-[i5works]: ../../companies/i5works.md
-[LucasArts]: ../../companies/lucasarts.md
-[Traveller's Tales]: ../../companies/travellers-tales.md
-[TT Games]: ../../companies/tt-games.md
+<!-- entities -->
+[Aspyr Media]: ../../entities/aspyr-media.md
+[Eidos Interactive]: ../../entities/eidos-interactive.md
+[Giant Interactive Entertainment]: ../../entities/giant-interactive-entertainment.md
+[i5works]: ../../entities/i5works.md
+[LucasArts]: ../../entities/lucasarts.md
+[Traveller's Tales]: ../../entities/travellers-tales.md
+[TT Games]: ../../entities/tt-games.md
 
 <!-- platforms -->
 [GameCube]: ../../platforms/gamecube.md

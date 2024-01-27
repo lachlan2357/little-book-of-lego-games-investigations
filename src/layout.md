@@ -32,7 +32,7 @@ However, sometimes multiple games may share an investigation. In that case, the 
 
 ## Supplement
 
-Alongside the main section of the book, a supplement section exists below that documents most of the referenced material. For example, information about companies, outlets, platforms, etc. are found here.
+Alongside the main section of the book, a supplement section exists below that documents most of the referenced material. For example, information about entities, outlets, platforms, etc. are found here.
 
 While they aren't part of the investigations specifically, they do contain a summary of all the information found through the investigations, so it can be a useful resource to wrap your head around some more of the complex situations.
 

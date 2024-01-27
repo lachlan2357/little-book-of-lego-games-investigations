@@ -12,7 +12,7 @@
 
 # Supplement
 
-- [Companies](./supplement/companies.md)
+- [Entities](./supplement/entities.md)
 	- [Aspyr Media]()
 	- [Eidos Interactive]()
 	- [Giant Interactive Entertainment]()

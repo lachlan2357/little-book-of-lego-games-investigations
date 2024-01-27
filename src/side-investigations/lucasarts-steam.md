@@ -164,8 +164,8 @@ So, we discovered the following things of note (excluding betas, trailers, etc.)
 <!-- games -->
 [LEGO Star Wars II: The Original Trilogy]: ../games/lego-star-wars-ii.md
 
-<!-- companies -->
-[LucasArts]: ../companies/lucasarts.md
+<!-- entities -->
+[LucasArts]: ../entities/lucasarts.md
 
 <!-- outlets -->
 [AFKGaming]: ../outlets/afk-gaming.md

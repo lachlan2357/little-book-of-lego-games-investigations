@@ -395,12 +395,12 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 <!-- games -->
 [LEGO Star Wars: The Video Game]: ../../games/lego-star-wars-i.md
 
-<!-- companies -->
-[Aspyr Media]: ../../companies/aspyr-media.md
-[Eidos Interactive]: ../../companies/eidos-interactive.md
-[i5works]: ../../companies/i5works.md
-[LucasArts]: ../../companies/lucasarts.md
-[Traveller's Tales]: ../../companies/travellers-tales.md
+<!-- entities -->
+[Aspyr Media]: ../../entities/aspyr-media.md
+[Eidos Interactive]: ../../entities/eidos-interactive.md
+[i5works]: ../../entities/i5works.md
+[LucasArts]: ../../entities/lucasarts.md
+[Traveller's Tales]: ../../entities/travellers-tales.md
 
 <!-- platforms -->
 [GameBoy Advance]: ../../platforms/gameboy-advance.md

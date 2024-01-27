@@ -145,10 +145,10 @@ After all, [SteamCMD] does list the game as "released", just under the "ownerson
 [LEGO Star Wars II: The Original Trilogy]: ../../games/lego-star-wars-ii.md
 [LEGO Star Wars: The Complete Saga]: ../../games/lego-star-wars-tcs.md
 
-<!-- companies -->
-[LucasArts]: ../../companies/lucasarts.md
-[Traveller's Tales]: ../../companies/travellers-tales.md
-[Valve]: ../../companies/valve.md
+<!-- entities -->
+[LucasArts]: ../../entities/lucasarts.md
+[Traveller's Tales]: ../../entities/travellers-tales.md
+[Valve]: ../../entities/valve.md
 
 <!-- databases -->
 [SteamDB]: ../../database/steamdb.md
