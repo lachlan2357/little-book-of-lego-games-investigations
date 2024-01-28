@@ -1,6 +1,7 @@
 :root {
 	--footnote: #e67a00;
 	--links: #2cafd0;
+	--transparent-black: #00000078;
 }
 
 h2, h3, h4, h5, h6 {
@@ -39,4 +40,18 @@ del {
 
 .footnote-definition-label {
 	color: var(--footnote);
+}
+
+.part-title {
+	position: relative;
+}
+
+.part-title::before {
+	content: "";
+	position: absolute;
+	left: -10px;
+	width: calc(100% + 20px);
+	height: 100%;
+	background-color: var(--transparent-black);
+	z-index: -1;
 }
