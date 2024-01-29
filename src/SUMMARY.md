@@ -5,10 +5,20 @@
 # Games
 
 - [LEGO Star Wars: The Video Game](./games/lego-star-wars-i.md)
+	- [Handheld Versions](./investigations/lego-star-wars-i/handheld-versions.md)
 	- [Publishers](./investigations/lego-star-wars-i/publishers.md)
 	- [Release Dates](./investigations/lego-star-wars-i/release-dates.md)
 - [LEGO Star Wars II: The Original Trilogy](./games/lego-star-wars-ii.md)
 	- [Steam Release](./investigations/lego-star-wars-ii/steam-release.md)
+
+# Global Investigations
+
+- [Classifications]()
+
+# Side Investigations
+
+- [LucasArts Planned but Unreleased Games on Steam](./side-investigations/lucasarts-steam.md)
+- [TT Games Company Structure](./side-investigations/tt-games-company-structure.md)
 
 # Supplement
 
@@ -83,8 +93,3 @@
 - [Wikis](./supplement/wikis.md)
 	- [Wikipedia]()
 	- [Xbox Fandom]()
-
-# Side Investigations
-
-- [LucasArts Planned but Unreleased Games on Steam](./side-investigations/lucasarts-steam.md)
-- [TT Games Company Structure](./side-investigations/tt-games-company-structure.md)

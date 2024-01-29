@@ -30,12 +30,16 @@ However, sometimes multiple games may share an investigation. In that case, the 
 	2.1 Publisher <-- ... as this file
 ```
 
+## Global Investigations
+
+Sometimes, investigations aren't tied to just a couple games, but span the the vast majority of games. In these cases, the investigations fall under this header.
+
+## Side Investigations
+
+This section contains (usually) smaller investigations that don't have much if anything to do with the franchise but were investigated anyway. They contain some interesting information however does not match the purpose for this book. I have included them because they are interesting to me and I think it is important for the information to be out there, but they aren't a part of the main book.
+
 ## Supplement
 
 Alongside the main section of the book, a supplement section exists below that documents most of the referenced material. For example, information about entities, outlets, platforms, etc. are found here.
 
 While they aren't part of the investigations specifically, they do contain a summary of all the information found through the investigations, so it can be a useful resource to wrap your head around some more of the complex situations.
-
-## Side Investigations
-
-This section contains (usually) smaller investigations that don't have much if anything to do with the franchise but were investigated anyway. They contain some interesting information however does not match the purpose for this book. I have included them because they are interesting to me and I think it is important for the information to be out there, but they aren't a part of the main book.
