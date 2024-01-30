@@ -6,6 +6,7 @@
 
 - [LEGO Star Wars: The Video Game](./games/lego-star-wars-i.md)
 	- [Handheld Versions](./investigations/lego-star-wars-i/handheld-versions.md)
+	- [Localised Names](./investigations/lego-star-wars-i/localised-names.md)
 	- [Publishers](./investigations/lego-star-wars-i/publishers.md)
 	- [Release Dates](./investigations/lego-star-wars-i/release-dates.md)
 - [LEGO Star Wars II: The Original Trilogy](./games/lego-star-wars-ii.md)
