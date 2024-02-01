@@ -5,4 +5,4 @@ Many games, especially from the early 2000s are region-locked; only games from a
 For games without region locking, the [Worldwide] region is used.
 
 <!-- regions -->
-[Worldwide]: ../regions/worldwide.md
+[Worldwide]: ../regions/ww.md

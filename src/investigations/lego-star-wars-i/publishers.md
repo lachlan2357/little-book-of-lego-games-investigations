@@ -233,7 +233,7 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 [Game Developer]: ../../outlets/game-developer.md
 [IGN]: ../../outlets/ign.md
 [MacWorld]: ../../outlets/macworld.md
-[PlayStation Press Releases]: ../../outlets-playstation-press-releases.md
+[PlayStation Press Releases]: ../../outlets/playstation-press-releases.md
 
 <!-- platforms -->
 [GameCube]: ../../platforms/gamecube.md
@@ -246,7 +246,7 @@ Maybe. It's quite possible I've missed something, or that there is incorrect inf
 [NTSC/J]: ../../regions/ntsc-j.md
 [NTSC/NC]: ../../regions/ntsc-nc.md
 [PAL]: ../../regions/pal.md
-[Worldwide]: ../../regions/worldwide.md
+[Worldwide]: ../../regions/ww.md
 
 <!-- tools -->
 [The Internet Archive]: ../../tools/internet-archive.md

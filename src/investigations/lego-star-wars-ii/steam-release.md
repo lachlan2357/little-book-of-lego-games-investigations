@@ -143,7 +143,7 @@ After all, [SteamCMD] does list the game as "released", just under the "ownerson
 <!-- LINKS -->
 
 <!-- databases -->
-[SteamDB]: ../../database/steamdb.md
+[SteamDB]: ../../databases/steamdb.md
 
 <!-- entities -->
 [LucasArts]: ../../entities/lucasarts.md

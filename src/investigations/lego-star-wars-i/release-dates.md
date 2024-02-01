@@ -419,10 +419,10 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 [IGN Wire]: ../../outlets/ign-wire.md
 [Kotaku]: ../../outlets/kotaku.md
 [MacWorld]: ../../outlets/macworld.md
-[The Xbox Hub]: ../../outlets/the-xbox-hub.md
+[The Xbox Hub]: ../../outlets/xbox-hub.md
 [XboxAddict]: ../../outlets/xbox-addict.md
 [Wired]: ../../outlets/wired.md
-[WorthPlaying]: ../../outlets/worthplaying.md
+[WorthPlaying]: ../../outlets/worth-playing.md
 
 <!-- platforms -->
 [GameBoy Advance]: ../../platforms/gameboy-advance.md
@@ -439,7 +439,7 @@ Overall, I'm quite happy with these findings. Sure, some of the sources are from
 [NTSC/J]: ../../regions/ntsc-j.md
 [NTSC/NC]: ../../regions/ntsc-nc.md
 [PAL]: ../../regions/pal.md
-[Worldwide]: ../../regions/worldwide.md
+[Worldwide]: ../../regions/ww.md
 
 <!-- stores -->
 [Amazon]: ../../stores/amazon.md

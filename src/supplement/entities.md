@@ -15,7 +15,7 @@ Many things aren't classified entities by this book, but some are:
 <!-- entities -->
 [Aspyr Media]: ../entities/aspyr-media.md
 [Traveller's Tales]: ../entities/travellers-tales.md
-[Valve]: ../../entities/valve.md
+[Valve]: ../entities/valve.md
 
 <!-- outlets -->
 [IGN]: ../outlets/ign.md
