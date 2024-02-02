@@ -12,6 +12,7 @@
 - [LEGO Star Wars II: The Original Trilogy](./games/lego-star-wars-ii.md)
 	- [Steam Release](./investigations/lego-star-wars-ii/steam-release.md)
 - [LEGO Star Wars: The Complete Saga](./games/lego-star-wars-tcs.md)
+	- [New Content](./investigations/lego-star-wars-tcs/new-content.md)
 - [LEGO City Undercover](./games/lego-city-undercover.md)
 - [LEGO Star Wars: The Force Awakens](./games/lego-star-wars-tfa.md)
 - [LEGO Star Wars: The Skywalker Saga](./games/lego-star-wars-tss.md)
